@@ -1,0 +1,11 @@
+CREATE TABLE Endereco (
+  ID int NOT NULL AUTO_INCREMENT,
+  Rua varchar(255) NOT NULL,
+  Numero int NOT NULL,
+  Bairro varchar(100) NOT NULL,
+  Cidade varchar(100) NOT NULL,
+  Cep varchar(10) NOT NULL,
+  idImovel int NOT NULL,
+  PRIMARY KEY (ID),
+  FOREIGN KEY (idImovel) REFERENCES Imovel(ID)
+);

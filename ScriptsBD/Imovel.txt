@@ -1,0 +1,10 @@
+CREATE DATABASE LocacaoImoveisAPI
+USE LocacaoImoveisAPI
+
+CREATE TABLE Imovel (
+  ID int NOT NULL AUTO_INCREMENT,
+  Nome varchar(255) NOT NULL,
+  isAlocado int NOT NULL,
+  Tipo varchar(50) NOT NULL,
+  PRIMARY KEY (ID)
+);

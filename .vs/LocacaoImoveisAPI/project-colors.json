@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27a73d21-3c46-403d-8fbc-b6bce3f1200b": {
+      "ProjectGuid": "27a73d21-3c46-403d-8fbc-b6bce3f1200b",
+      "DisplayName": "LocacaoImoveisAPI",
+      "ColorIndex": 0
+    },
+    "47091f84-010e-4e17-a8f4-7b21f48f727b": {
+      "ProjectGuid": "47091f84-010e-4e17-a8f4-7b21f48f727b",
+      "DisplayName": "LocacaoImoveisAPI.Domain",
+      "ColorIndex": 1
+    },
+    "0619d64b-0b52-43ff-898c-bc96cf0ec784": {
+      "ProjectGuid": "0619d64b-0b52-43ff-898c-bc96cf0ec784",
+      "DisplayName": "LocacaoImoveisAPI.Repository",
+      "ColorIndex": 2
+    },
+    "ea7d8134-2e79-4214-a647-32bb5806d505": {
+      "ProjectGuid": "ea7d8134-2e79-4214-a647-32bb5806d505",
+      "DisplayName": "LocacaoImoveisAPI.Application",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

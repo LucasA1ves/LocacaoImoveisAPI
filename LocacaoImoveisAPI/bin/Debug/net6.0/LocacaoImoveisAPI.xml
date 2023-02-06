@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LocacaoImoveisAPI</name>
+    </assembly>
+    <members>
+        <member name="M:LocacaoImoveisAPI.Controllers.BuscaCepController.PesquisaCep(System.String)">
+            <summary>
+            Busca dados correspondentes de um cep.
+            </summary>
+        </member>
+        <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.GetImovel(System.Int32)">
+            <summary>
+            Busca o imóveis cadastrado na base por seu ID.
+            </summary>
+        </member>
+        <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.GetImoveis">
+            <summary>
+            Busca todos os imóveis cadastrados na base.
+            </summary>
+        </member>
+        <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.PostImovel(LocacaoImoveisAPI.Domain.Dtos.RequestCadastroImovelDto)">
+            <summary>
+            Cria um novo registro de imóvel.
+            </summary>
+        </member>
+        <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.UpdateImovel(LocacaoImoveisAPI.Domain.Dtos.RequestCadastroImovelDto)">
+            <summary>
+            Atualiza o registro de um imóvel.
+            </summary>
+        </member>
+        <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.DeleteImovel(System.Int32)">
+            <summary>
+            Deleta o registro de imóvel.
+            </summary>
+        </member>
+    </members>
+</doc>
