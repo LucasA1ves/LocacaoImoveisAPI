@@ -11,7 +11,7 @@
         </member>
         <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.GetImovel(System.Int32)">
             <summary>
-            Busca o imóveis cadastrado na base por seu ID.
+            Busca o imóvel cadastrado na base por seu ID.
             </summary>
         </member>
         <member name="M:LocacaoImoveisAPI.Controllers.CadastrarImovelController.GetImoveis">

@@ -1,2 +1,2 @@
-#Ignorando arquivos com extensão .json
-.json
+#Ignorando arquivos com extensao json
+*.json

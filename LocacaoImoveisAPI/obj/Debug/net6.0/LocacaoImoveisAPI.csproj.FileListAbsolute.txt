@@ -585,13 +585,6 @@ C:\Users\victo\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj
 C:\Users\victo\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.genruntimeconfig.cache
 C:\Users\victo\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\LocacaoImoveisAPI.xml
 C:\Users\victo\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.xml
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.csproj.AssemblyReference.cache
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.AssemblyInfoInputs.cache
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.AssemblyInfo.cs
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.csproj.CoreCompileInputs.cache
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\LocacaoImoveisAPI.exe
@@ -861,6 +854,13 @@ C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\LocacaoImoveisAPI.Application.pdb
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\LocacaoImoveisAPI.Repository.pdb
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\bin\Debug\net6.0\LocacaoImoveisAPI.Domain.pdb
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.csproj.AssemblyReference.cache
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.AssemblyInfoInputs.cache
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.AssemblyInfo.cs
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.csproj.CoreCompileInputs.cache
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\LocacaoImoveisAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\lacsa\Desktop\LocacaoImoveisAPI\LocacaoImoveisAPI\LocacaoImoveisAPI\obj\Debug\net6.0\scopedcss\bundle\LocacaoImoveisAPI.styles.css
